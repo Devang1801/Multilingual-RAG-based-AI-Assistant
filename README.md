@@ -57,7 +57,7 @@ In a new terminal, start the mock authentication and user details server:
 ```bash
 python mock_user_api.py
 ```
-*(Runs on `http://localhost:8900`. Use test mobile `7668455121` and OTP `123456` to login).*
+*(Runs on `http://localhost:8900`. Use test mobile `7688445721` and OTP `123456` to login).*
 
 ### 5. Run the Main Agent Server
 In another terminal, start the main chatbot application:
@@ -70,5 +70,3 @@ python agents.py
 Open your browser and navigate to:
 [http://localhost:8000/](http://localhost:8000/)
 
-## 📝 License
-This project is licensed under the MIT License.
