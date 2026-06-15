@@ -1,0 +1,23 @@
+vector_db/
+vectorstore/
+vectorstore1/
+pageindex_store/
+env/
+dataset/
+datasets/
+LangGraph/
+pdf_chain_app/
+sql_app/
+api_graph_app/
+merged_data/
+__pycache__/
+*.pyc
+.vscode/
+.chainlit/
+*.code-workspace
+*.zip
+wheels/
+
+# Ignore heavy ML Model directories
+all-mini_v12/
+qwen_4b/
